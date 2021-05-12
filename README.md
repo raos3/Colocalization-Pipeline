@@ -1,5 +1,12 @@
 # Welcome to the IPDGC/ GP2 Hackathon: Colocalization Pipeline  
 
+>Anni Moore, Konstantin Senkevich, Devina Chetty, Paula Reyes, Prabhjyot Saini, William Scotton, Shilpa Rao
+
+**Goal: Use GWAS summary stats and public eQTLs summary stats (blood and brain) and make an automated colocalization tool which potentially takes into account conditional effects.**
+
+# 
+
+
 &nbsp;  
 
 ## What is _coloc_?  
@@ -13,6 +20,7 @@ This tool can be used to prioritize genes underlying **GWAS hits**
 ![image](https://user-images.githubusercontent.com/84042456/117986308-cbe19b00-b339-11eb-8f90-3f33959f0a12.png)  
 &nbsp;  
 ![image](https://user-images.githubusercontent.com/84042456/117987145-82458000-b33a-11eb-99d4-1e3573a14276.png)  
+
 
 &nbsp;
 &nbsp;
@@ -32,3 +40,11 @@ This tool can be used to prioritize genes underlying **GWAS hits**
 
 &nbsp;
 &nbsp;
+# 
+
+## Summary Stats
+For the GWAS summary stats we will use **Nalls et al. 2019** 
+ ![image](https://user-images.githubusercontent.com/64213922/117998583-09323280-b312-11eb-8672-fb26673ba5f0.png)
+
+For the eQTLs we will us **eQTLGen.**
+![image] https://www.eqtlgen.org/ 
